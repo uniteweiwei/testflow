@@ -1,0 +1,20 @@
+{
+    "name": "unitexiaowei/testflow",
+    "description": "这是测试的包",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "unitexiaowei",
+            "email": "964587505@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ab\\": "src/Ab"
+        }
+    }
+}
